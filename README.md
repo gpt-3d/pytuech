@@ -15,3 +15,5 @@ This project exists to extend on [P1ayer-1's](https://github.com/P1ayer-1) effor
 `cd pytorch`
   
 `git submodule update --init --recursive`
+
+You just **blazed** through the first step of the wiki, good job! Start on [Step 2](https://github.com/gpt-3d/pytorch/wiki/2.-LibTorch-Plugin-Setup) to setup your plugins to point to your desired PyTorch library...
