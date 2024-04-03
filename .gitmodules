@@ -1,8 +1,6 @@
+[submodule "Plugins/LibTorch-UE5"]
+	path = Plugins/LibTorch-UE5
+	url = https://github.com/P1ayer-1/Libtorch-UE5
 [submodule "Plugins/Tokenizers-UE5"]
 	path = Plugins/Tokenizers-UE5
 	url = https://github.com/P1ayer-1/Tokenizers-UE5
-	branch = main
-[submodule "Plugins/Libtorch-UE5"]
-	path = Plugins/Libtorch-UE5
-	url = https://github.com/P1ayer-1/Libtorch-UE5.git
-	branch = master
