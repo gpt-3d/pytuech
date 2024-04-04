@@ -17,3 +17,10 @@ This project exists to extend on [P1ayer-1's](https://github.com/P1ayer-1) effor
 `git submodule update --init --recursive`
 
 You just **blazed** through the first step of the wiki, good job! Start on [Step 2](https://github.com/gpt-3d/pytorch/wiki/2.-LibTorch-Plugin-Setup) to setup your plugins to point to your desired PyTorch library...
+
+
+### Credits
+
+This project contains submodules;
+- [Libtorch-UE5](https://github.com/P1ayer-1/Libtorch-UE5) plugin that is extended from [UE-ATUM](https://github.com/UE-ATUM/Plugin)
+- [Tokenizers-UE5](https://github.com/P1ayer-1/Tokenizers-UE5), a modification of a Hugging Face cpp tokenizers library based off [mlc-ai tokenizers-cpp](https://github.com/mlc-ai/tokenizers-cpp), as a plugin in Unreal Engine. 
