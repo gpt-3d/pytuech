@@ -14,7 +14,7 @@ This project exists to extend on [P1ayer-1's](https://github.com/P1ayer-1) effor
 
 ## Quickstart
 
-`git clone https://github.com/gpt-3d/pytorch.git`
+`git clone https://github.com/gpt-3d/pytuech.git`
  
 `cd pytorch`
   
