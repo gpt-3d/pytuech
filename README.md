@@ -1,10 +1,12 @@
-# PyTorch in Unreal Engine
+# PyTorch in Unreal Engine (PyTuech)
 
 <p align="center">
   <img src="https://github.com/gpt-3d/pytuech/assets/20903421/7774b547-5170-4574-9763-0f426c3a5cce?raw=true" alt="pytuech"/>
 </p>
 
 ### What is this?
+
+Pronouned "Pie-Tyooch"
 
 This project exists to extend on [P1ayer-1's](https://github.com/P1ayer-1) efforts of integrating PyTorch into Unreal Engine, and serves as a way to unify the dependencies, make his tutorials easier to understand at a glance (dive deep by watching them!), and to build examples that can be shared with everyone. See the [wiki](https://github.com/gpt-3d/pytorch/wiki) for project and plugin setup, or use the quickstart below to get moving immediately!
 
